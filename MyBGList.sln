@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBGList", "MyBGList\MyBGList.csproj", "{589CF8B0-A6B4-465C-AA3C-84C18D1BB980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBGList_ApiVersion", "MyBGList_ApiVersion\MyBGList_ApiVersion.csproj", "{2BACA6C2-0123-40A0-9A2B-6B44890A0E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{589CF8B0-A6B4-465C-AA3C-84C18D1BB980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589CF8B0-A6B4-465C-AA3C-84C18D1BB980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589CF8B0-A6B4-465C-AA3C-84C18D1BB980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589CF8B0-A6B4-465C-AA3C-84C18D1BB980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BACA6C2-0123-40A0-9A2B-6B44890A0E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BACA6C2-0123-40A0-9A2B-6B44890A0E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BACA6C2-0123-40A0-9A2B-6B44890A0E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BACA6C2-0123-40A0-9A2B-6B44890A0E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581FD104-DF67-47DD-B621-7AD51C7E3340}
+	EndGlobalSection
+EndGlobal
